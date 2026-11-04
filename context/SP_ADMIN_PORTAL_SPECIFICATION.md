@@ -425,7 +425,7 @@ Transfer and adapt the following components directly from `D:\Next Js\SKY SMS AP
 
 ## 5. Backend API Reference & Data Contracts
 
-The frontend interacts with the NestJS backend at `NEXT_PUBLIC_API_URL` (`http://localhost:3000/api/v1` or production URL).
+The frontend interacts with the NestJS backend at `NEXT_PUBLIC_API_URL` (`http://localhost:4000/api/v1` or production URL).
 
 ### 5.1 Standard Response Envelope
 All endpoints return JSON wrapped by `TransformInterceptor`:
